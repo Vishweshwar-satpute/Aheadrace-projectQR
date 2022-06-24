@@ -20,4 +20,5 @@ Practical usage:
 
 <h2>QR code for Aheadrace Official website and linkedIn</h2>
 
-![alt text](https://github.com/Vishweshwar-satpute/Aheadrace-projectQR/blob/main/ARLinkedIn.png?raw=true)     ![alt text](https://github.com/Vishweshwar-satpute/Aheadrace-projectQR/blob/main/ARWebsite.png?raw=true)
+![alt text](https://github.com/Vishweshwar-satpute/Aheadrace-projectQR/blob/main/ARLinkedIn.png?raw=true)     ![alt text](https://github.com/Vishweshwar-satpute/Aheadrace-projectQR/blob/main/ARWebsite.png?raw=true)         ![alt text](https://github.com/Vishweshwar-satpute/Aheadrace-projectQR/blob/main/AheadRaceQR_code.png?raw=true)
+ 
